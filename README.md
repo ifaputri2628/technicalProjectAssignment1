@@ -1,1 +1,0 @@
-# technicalProjectAssignment1
